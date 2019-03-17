@@ -1,4 +1,4 @@
-# Awesome Prime Numbers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re
+# Awesome Prime Numbers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources around prime numbers.
 
@@ -54,8 +54,6 @@ A primality test is an algorithm for determining whether an input number is prim
 
 ## Largest Known Primes
 
-The ongoing quest to find larger prime numbers.
-
 - [The largest known primes today](https://www.mersenne.org/primes/)
 - [The largest known prime in history](https://en.wikipedia.org/wiki/Largest_known_prime_number#History)
 - [Awards for finding large primes](https://www.eff.org/awards/coop/rules)
@@ -70,6 +68,7 @@ Deep-dive into advanced mathematics.
 - Analytical Number Theory
   - 📖 [Introduction to Analytic Number Theory](https://www.springer.com/gp/book/9780387901633) By Apostol. Undergraduate level.
 - Algebraic Number Theory
+  - 📖 [Algebraic Number Theory](https://www.springer.com/gp/book/9783540653998) By Neukirch. Undergraduate level.
 
 ## Prime Numbers Used in Other Fields
 
@@ -86,4 +85,4 @@ Deep-dive into advanced mathematics.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Amaury Martiny](https://amaurymartiny.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Amaury Martiny](http://amaurymartiny.com) has waived all copyright and related or neighboring rights to this work.
