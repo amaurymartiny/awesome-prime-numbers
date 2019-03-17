@@ -1,8 +1,8 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Prime Numbers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re
 
-# Awesome Prime Numbers
+> A curated list of awesome resources around prime numbers.
 
-A curated list of awesome resources around prime numbers.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 # Table of Contents
 
@@ -17,7 +17,7 @@ A curated list of awesome resources around prime numbers.
 - [What is a prime number?](https://primes.utm.edu/glossary/page.php?sort=Prime)
 - [The first 1000 primes](https://prime-numbers.info/list/first-1000-primes)
 - [How many primes are there?](https://primes.utm.edu/howmany.html) Also known as Euclid's Theorem.
-  - [17 tiny proofs (< 20 lines) of Euclid's Theorem](https://pdfs.semanticscholar.org/d076/cef0cd81615d9649219c138a8840322a9bc3.pdf)
+  - [17 tiny proofs (< 20 lines) of Euclid's Theorem 📄](https://pdfs.semanticscholar.org/d076/cef0cd81615d9649219c138a8840322a9bc3.pdf)
 - [Frequently asked questions about prime](https://primes.utm.edu/notes/faq/)
 - [The first 2 billion prime numbers](http://www.primos.mat.br/2T_en.html)
 
@@ -50,6 +50,15 @@ A curated list of awesome resources around prime numbers.
 - [Awards for finding large primes](https://www.eff.org/awards/coop/rules)
 
 ## Number Theory
+
+## Prime Numbers Used in Other Domains
+
+- Cryptography
+  - [Prime numbers in Diffie-Hellman](https://securitypitfalls.wordpress.com/2017/05/05/safe-primes-in-diffie-hellman/)
+  - [How RSA works](http://doctrina.org/How-RSA-Works-With-Examples.html)
+- Physics:
+- Biology:
+  - [Cicadas and prime numbers](https://en.wikipedia.org/wiki/Periodical_cicadas) Cicadas emerge from habitats after a prime number of years.
 
 ## License
 
