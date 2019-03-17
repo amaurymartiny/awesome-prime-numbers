@@ -11,7 +11,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Primality Tests](#primality-tests)
   - [Primality Testing Software](#primality-testing-software)
 - [Largest Known Primes](#largest-known-primes)
-- [Deep Dive](#deep-dive)
+- [Number Theory](#number-theory)
+- [Prime Numbers Used in Other Fields](#prime-numbers-used-in-other-fields)
 
 ## The Basics
 
