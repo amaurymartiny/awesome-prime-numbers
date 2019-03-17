@@ -17,7 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [What is a prime number?](https://primes.utm.edu/glossary/page.php?sort=Prime)
 - [The first 1000 primes](https://prime-numbers.info/list/first-1000-primes)
 - [How many primes are there?](https://primes.utm.edu/howmany.html) Also known as Euclid's Theorem.
-  - [17 tiny proofs (< 20 lines) of Euclid's Theorem 📄](https://pdfs.semanticscholar.org/d076/cef0cd81615d9649219c138a8840322a9bc3.pdf)
+  - 📄 [17 tiny proofs (< 20 lines) of Euclid's Theorem](https://pdfs.semanticscholar.org/d076/cef0cd81615d9649219c138a8840322a9bc3.pdf)
 - [Frequently asked questions about prime](https://primes.utm.edu/notes/faq/)
 - [The first 2 billion prime numbers](http://www.primos.mat.br/2T_en.html)
 
