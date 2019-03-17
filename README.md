@@ -7,21 +7,30 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 # Table of Contents
 
 - [The Basics](#the-basics)
+  - [Popularizer Books](#popularizer-books)
 - [Primality Tests](#primality-tests)
   - [Primality Testing Software](#primality-testing-software)
 - [Largest Known Primes](#largest-known-primes)
-- [Number Theory](#number-theory)
+- [Deep Dive](#deep-dive)
 
 ## The Basics
 
+Start here if you want to learn about prime numbers.
+
 - [What is a prime number?](https://primes.utm.edu/glossary/page.php?sort=Prime)
 - [The first 1000 primes](https://prime-numbers.info/list/first-1000-primes)
-- [How many primes are there?](https://primes.utm.edu/howmany.html) Also known as Euclid's Theorem.
-  - 📄 [17 tiny proofs (< 20 lines) of Euclid's Theorem](https://pdfs.semanticscholar.org/d076/cef0cd81615d9649219c138a8840322a9bc3.pdf)
+- [How many primes are there?](https://primes.utm.edu/howmany.html)
+  - 📄 [17 tiny proofs (< 20 lines) of Euclid's second theorem](https://pdfs.semanticscholar.org/d076/cef0cd81615d9649219c138a8840322a9bc3.pdf)
 - [Frequently asked questions about prime](https://primes.utm.edu/notes/faq/)
 - [The first 2 billion prime numbers](http://www.primos.mat.br/2T_en.html)
 
+### Popularizer Books
+
+- 📖 [The Music of the Primes](https://plus.maths.org/content/music-primes) By Marcus du Sautoy. Provides a good history of prime numbers, but does get more technical than your average public maths book.
+
 ## Primality Tests
+
+A primality test is an algorithm for determining whether an input number is prime.
 
 - [Primality proving - an introduction](https://primes.utm.edu/prove/prove1.html)
 - Quick tests:
@@ -45,20 +54,33 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Largest Known Primes
 
+The ongoing quest to find larger prime numbers.
+
 - [The largest known primes today](https://www.mersenne.org/primes/)
 - [The largest known prime in history](https://en.wikipedia.org/wiki/Largest_known_prime_number#History)
 - [Awards for finding large primes](https://www.eff.org/awards/coop/rules)
 
 ## Number Theory
 
-## Prime Numbers Used in Other Domains
+Deep-dive into advanced mathematics.
+
+- 📖 [An introduction to the theory of numbers](https://www.maa.org/press/maa-reviews/an-introduction-to-the-theory-of-numbers) By Hardy & Wright. Overview of number theory on an elementary level.
+- 📖 [A classical introduction to modern number theory](https://www.springer.com/gp/book/9780387973296) By Ireland & Rosen. Accessible text that requires only a familiarity with basic abstract algebra.
+- 📖 [Prime Numbers, A Computational Perspective](https://www.springer.com/gp/book/9780387252827) By Crandall & Pomerance.
+- Analytical Number Theory
+  - 📖 [Introduction to Analytic Number Theory](https://www.springer.com/gp/book/9780387901633) By Apostol. Undergraduate level.
+- Algebraic Number Theory
+
+## Prime Numbers Used in Other Fields
 
 - Cryptography
-  - [Prime numbers in Diffie-Hellman](https://securitypitfalls.wordpress.com/2017/05/05/safe-primes-in-diffie-hellman/)
   - [How RSA works](http://doctrina.org/How-RSA-Works-With-Examples.html)
+  - [Enigma machine](https://www.cryptomuseum.com/crypto/enigma/g/a28.htm) Prime numbers have been used to make the Enigma machine's encrypting less predictable.
 - Physics:
 - Biology:
   - [Cicadas and prime numbers](https://en.wikipedia.org/wiki/Periodical_cicadas) Cicadas emerge from habitats after a prime number of years.
+- Misc:
+  - 📄 [Prime Numbers and the Search for Extraterrestrial Intelligence](https://www.math.dartmouth.edu/~carlp/PDF/extraterrestrial.pdf)
 
 ## License
 
