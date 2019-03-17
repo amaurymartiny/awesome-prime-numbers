@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources around prime numbers.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+This list, as all other [awesome](https://github.com/sindresorhus/awesome) lists, is really meant to be curated and improved by the community, so don't hesitate to contribute. Follow [these easy steps](CONTRIBUTING.md) to add of modify entries.
 
 # Table of Contents
 
@@ -27,7 +27,7 @@ Start here if you want to learn about prime numbers.
 
 ### Popularizer Books
 
-- 📖 [The Music of the Primes](https://plus.maths.org/content/music-primes) By Marcus du Sautoy. Provides a good history of prime numbers, but does get more technical than your average public maths book.
+- 📖 [The Music of the Primes](https://plus.maths.org/content/music-primes): By Marcus du Sautoy. Provides a good history of prime numbers, but does get more technical than your average public maths book.
 
 ## Primality Tests
 
@@ -35,16 +35,16 @@ A primality test is an algorithm for determining whether an input number is prim
 
 - [Primality proving - an introduction](https://primes.utm.edu/prove/prove1.html)
 - Quick tests:
-  - [Sieve of Eratosthenes](https://primes.utm.edu/prove/prove2_1.html) Useful for small primes <10,000,000,000.
+  - [Sieve of Eratosthenes](https://primes.utm.edu/prove/prove2_1.html): Useful for small primes <10,000,000,000.
   - [Lucas Pseudoprime Test](http://mathworld.wolfram.com/LucasPseudoprime.html)
   - [Rabin-Miller Strong Pseudoprime Test](http://mathworld.wolfram.com/Rabin-MillerStrongPseudoprimeTest.html)
 - Classical tests:
-  - [Pepin's Test](https://primes.utm.edu/prove/prove3_1.html) For Fermat numbers.
+  - [Pepin's Test](https://primes.utm.edu/prove/prove3_1.html): For Fermat numbers.
   - [Lucas-Lehmer Test](http://mathworld.wolfram.com/Lucas-LehmerTest.html)
 - General purpose tests:
   - [APR and APR-CL](https://primes.utm.edu/prove/prove4_1.html)
-  - [Elliptic Curve Primality Proving](http://mathworld.wolfram.com/EllipticCurvePrimalityProving.html) The fastest known general-purpose primality testing algorithm.
-  - [AKS Primality Test](http://mathworld.wolfram.com/AKSPrimalityTest.html) Runs in polynomial time.
+  - [Elliptic Curve Primality Proving](http://mathworld.wolfram.com/EllipticCurvePrimalityProving.html): The fastest known general-purpose primality testing algorithm.
+  - [AKS Primality Test](http://mathworld.wolfram.com/AKSPrimalityTest.html): Runs in polynomial time.
 
 ### Primality Testing Software
 
@@ -63,22 +63,22 @@ A primality test is an algorithm for determining whether an input number is prim
 
 Deep-dive into advanced mathematics.
 
-- 📖 [An introduction to the theory of numbers](https://www.maa.org/press/maa-reviews/an-introduction-to-the-theory-of-numbers) By Hardy & Wright. Overview of number theory on an elementary level.
-- 📖 [A classical introduction to modern number theory](https://www.springer.com/gp/book/9780387973296) By Ireland & Rosen. Accessible text that requires only a familiarity with basic abstract algebra.
-- 📖 [Prime Numbers, A Computational Perspective](https://www.springer.com/gp/book/9780387252827) By Crandall & Pomerance.
+- 📖 [An introduction to the theory of numbers](https://www.maa.org/press/maa-reviews/an-introduction-to-the-theory-of-numbers): By Hardy & Wright. Overview of number theory on an elementary level.
+- 📖 [A classical introduction to modern number theory](https://www.springer.com/gp/book/9780387973296): By Ireland & Rosen. Accessible text that requires only a familiarity with basic abstract algebra.
+- 📖 [Prime Numbers, A Computational Perspective](https://www.springer.com/gp/book/9780387252827): By Crandall & Pomerance.
 - Analytical Number Theory
-  - 📖 [Introduction to Analytic Number Theory](https://www.springer.com/gp/book/9780387901633) By Apostol. Undergraduate level.
+  - 📖 [Introduction to Analytic Number Theory](https://www.springer.com/gp/book/9780387901633): By Apostol. Undergraduate level.
 - Algebraic Number Theory
-  - 📖 [Algebraic Number Theory](https://www.springer.com/gp/book/9783540653998) By Neukirch. Undergraduate level.
+  - 📖 [Algebraic Number Theory](https://www.springer.com/gp/book/9783540653998): By Neukirch. Undergraduate level.
 
 ## Prime Numbers Used in Other Fields
 
 - Cryptography
   - [How RSA works](http://doctrina.org/How-RSA-Works-With-Examples.html)
-  - [Enigma machine](https://www.cryptomuseum.com/crypto/enigma/g/a28.htm) Prime numbers have been used to make the Enigma machine's encrypting less predictable.
+  - [Enigma machine](https://www.cryptomuseum.com/crypto/enigma/g/a28.htm): Prime numbers have been used to make the Enigma machine's encrypting less predictable.
 - Physics:
 - Biology:
-  - [Cicadas and prime numbers](https://en.wikipedia.org/wiki/Periodical_cicadas) Cicadas emerge from habitats after a prime number of years.
+  - [Cicadas and prime numbers](https://en.wikipedia.org/wiki/Periodical_cicadas): Cicadas emerge from habitats after a prime number of years.
 - Misc:
   - 📄 [Prime Numbers and the Search for Extraterrestrial Intelligence](https://www.math.dartmouth.edu/~carlp/PDF/extraterrestrial.pdf)
 
