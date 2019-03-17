@@ -4,7 +4,7 @@
 
 This list, as all other [awesome](https://github.com/sindresorhus/awesome) lists, is really meant to be curated and improved by the community, so don't hesitate to [contribute](CONTRIBUTING.md).
 
-# Table of Contents
+## Table of Contents
 
 - [The Basics](#the-basics)
   - [Popularizer Books](#popularizer-books)
