@@ -4,6 +4,14 @@
 
 A curated list of awesome resources around prime numbers.
 
+# Table of Contents
+
+- [The Basics](#the-basics)
+- [Primality Tests](#primality-tests)
+	- [Primality Testing Software](#primality-testing-software)
+- [Largest Known Primes](#largest-known-primes)
+- [Number Theory](#number-theory)
+
 ## The Basics
 
 - [What is a prime number?](https://primes.utm.edu/glossary/page.php?sort=Prime)
@@ -16,14 +24,17 @@ A curated list of awesome resources around prime numbers.
 ## Primality Tests
 
 - [Primality proving - an introduction](https://primes.utm.edu/prove/prove1.html)
-- Deterministic tests:
-  - [Sieve of Eratosthenes](https://primes.utm.edu/prove/prove2_1.html)
-  - [Lucas-Lehmer Test](http://mathworld.wolfram.com/Lucas-LehmerTest.html)
-  - [Elliptic Curve Primality Proving](http://mathworld.wolfram.com/EllipticCurvePrimalityProving.html) The fastest known general-purpose primality testing algorithm.
-  - [AKS Primality Test](http://mathworld.wolfram.com/AKSPrimalityTest.html) Runs in polynomial time.
-- Probabilistic tests:
+- Quick tests:
+  - [Sieve of Eratosthenes](https://primes.utm.edu/prove/prove2_1.html) Useful for small primes <10,000,000,000.
+	- [Lucas Pseudoprime Test](http://mathworld.wolfram.com/LucasPseudoprime.html)
   - [Rabin-Miller Strong Pseudoprime Test](http://mathworld.wolfram.com/Rabin-MillerStrongPseudoprimeTest.html)
-  - [Lucas Pseudoprime Test](http://mathworld.wolfram.com/LucasPseudoprime.html)
+- Classical tests:
+  - [Pepin's Test](https://primes.utm.edu/prove/prove3_1.html) For Fermat numbers.
+	- [Lucas-Lehmer Test](http://mathworld.wolfram.com/Lucas-LehmerTest.html)
+- General purpose tests:
+	- [APR and APR-CL](https://primes.utm.edu/prove/prove4_1.html)
+	- [Elliptic Curve Primality Proving](http://mathworld.wolfram.com/EllipticCurvePrimalityProving.html) The fastest known general-purpose primality testing algorithm.
+	- [AKS Primality Test](http://mathworld.wolfram.com/AKSPrimalityTest.html) Runs in polynomial time.
 
 ### Primality Testing Software
 
