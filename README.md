@@ -1,4 +1,4 @@
-# Awesome Prime Numbers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![random prime number](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fgenerate-random-prime.now.sh)](https://github.com/amaurymartiny/generate-random-prime)
+# Awesome Prime Numbers [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![random prime number](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fgenerate-random-prime.now.sh&style=flat-square)](https://github.com/amaurymartiny/generate-random-prime)
 
 > A curated list of awesome resources around prime numbers.
 
