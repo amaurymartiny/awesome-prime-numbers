@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources around prime numbers.
 
-This list, as all other [awesome](https://github.com/sindresorhus/awesome) lists, is really meant to be curated and improved by the community, so don't hesitate to contribute. Follow [these easy steps](CONTRIBUTING.md) to add of modify entries.
+This list, as all other [awesome](https://github.com/sindresorhus/awesome) lists, is really meant to be curated and improved by the community, so don't hesitate to [contribute](CONTRIBUTING.md).
 
 # Table of Contents
 
