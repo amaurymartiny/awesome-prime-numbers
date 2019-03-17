@@ -10,15 +10,13 @@ Thanks for willing to contribute to this list!
 - Propose a new category/sub-category
 - Other more significant changes: I'm really open to new ideas
 
-## Adding something to an awesome list
-
-If you have something awesome to contribute to an awesome list, this is how you do it.
+## Adding something to this list
 
 1. You'll need a [GitHub account](https://github.com/join)!
-2. Click on the `README.md` file.
-3. Now click ont he edit button, it's on the top right corner, and looks like a pen.
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
-5. Say why you're proposing the changes, and then click on "Propose file change".
+2. Click on the [`README.md`](README.md) file.
+3. Now click on the edit button, it's on the top right corner, and looks like a pen.
+4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines below. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
+5. Scroll to the bottom, say why you're proposing the changes, and then click on "Propose file change".
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 ## Guidelines
